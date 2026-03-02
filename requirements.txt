@@ -1,0 +1,7 @@
+Install Required Libraries
+Kali may not have them installed yet.
+Run:
+pip3 install zxcvbn requests
+If this doesn't work,
+Run: 
+sudo apt install python3-zxcvbn
